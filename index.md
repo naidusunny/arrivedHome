@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## GitHub Pages Home (design by Tianbin)
+## GitHub Pages Home
 
 {% include navigation.html %}
 
