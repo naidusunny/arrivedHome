@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## GitHub Pages Home
+## GitHub Pages ARRIVED Home
 
 {% include navigation.html %}
 
