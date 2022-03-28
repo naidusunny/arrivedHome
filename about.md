@@ -13,3 +13,13 @@
     <td><a href="">Profile</a></td>
   </tr>
 </table>
+
+
+
+# About Deer Park Monastery 
+ {{ site.title }}
+
+WebSite [ {{ site.webserver }} ]({{ site.webserver }})
+
+Email [ {{ site.email }} ](mailto:{{ site.email }})
+
